@@ -1,4 +1,4 @@
-# D-FLIPDLOP-NEGEDGE
+# D-FLIPFLOP-NEGEDGE
 
 **AIM:**
 
@@ -56,13 +56,13 @@ endmodule
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: SUDHARSAN S RegisterNumber: 24900437
 */
 
-**RTL LOGIC FOR FLIPFLOPS**
+**RTL**
 
 ![exp8](https://github.com/user-attachments/assets/d9fed5e5-2918-455d-aa8e-106e33f26c09)
 
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAM**
 
 ![Screenshot 2024-12-03 132651](https://github.com/user-attachments/assets/24f8d6be-cba0-488c-9cf6-d6a129e05eab)
 
@@ -70,6 +70,6 @@ endmodule
 
 
 
-**RESULTS**
+**RESULT**
 
 Thus the program to implement a D flipflop using verilog and validating their functionality using their functional tables
